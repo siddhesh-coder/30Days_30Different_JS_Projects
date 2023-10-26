@@ -1,4 +1,32 @@
 # 30Days_30Different_JS_Projects
 
-| Day 1 | JavaScript Drum Kit |
-| Day 2 | CSS + JS Clock |
+Day 1 => JavaScript Drum Kit.  
+Day 2 => CSS + JS Clock.  
+Day 3 => Your Project Name for Day 3.  
+Day 4 => Your Project Name for Day 4.  
+Day 5 => Your Project Name for Day 5.  
+Day 6 => Your Project Name for Day 6.  
+Day 7 => Your Project Name for Day 7.  
+Day 8 => Your Project Name for Day 8.  
+Day 9 => Your Project Name for Day 9.  
+Day 10 => Your Project Name for Day 10.  
+Day 11 => Your Project Name for Day 11.  
+Day 12 => Your Project Name for Day 12.  
+Day 13 => Your Project Name for Day 13.  
+Day 14 => Your Project Name for Day 14.  
+Day 15 => Your Project Name for Day 15.  
+Day 16 => Your Project Name for Day 16.  
+Day 17 => Your Project Name for Day 17.  
+Day 18 => Your Project Name for Day 18.  
+Day 19 => Your Project Name for Day 19.  
+Day 20 => Your Project Name for Day 20.  
+Day 21 => Your Project Name for Day 21.  
+Day 22 => Your Project Name for Day 22.  
+Day 23 => Your Project Name for Day 23.  
+Day 24 => Your Project Name for Day 24.  
+Day 25 => Your Project Name for Day 25.  
+Day 26 => Your Project Name for Day 26.  
+Day 27 => Your Project Name for Day 27.  
+Day 28 => Your Project Name for Day 28.  
+Day 29 => Your Project Name for Day 29.  
+Day 30 => Your Project Name for Day 30.  
