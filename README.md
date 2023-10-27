@@ -2,7 +2,7 @@
 
 Day 1 => JavaScript Drum Kit.  
 Day 2 => CSS + JS Clock.  
-Day 3 => Your Project Name for Day 3.  
+Day 3 => Playing with CSS Variables and JS.
 Day 4 => Your Project Name for Day 4.  
 Day 5 => Your Project Name for Day 5.  
 Day 6 => Your Project Name for Day 6.  
